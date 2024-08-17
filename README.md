@@ -32,7 +32,7 @@ Follow these steps to set up and run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CurrencyConverterApp.git
+git clone https://github.com/yihe2/CurrencyConverterApp.git
 cd CurrencyConverterApp
 ```
 

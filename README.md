@@ -59,6 +59,12 @@ dotnet run --launch-profile "https"
 ```
 Alternatively, you can use Visual Studio or Visual Studio Code to launch the project with the appropriate profile.
 
+### 5. Access the Application
+
+Once the application is running, you can access it in your browser at:
+* HTTPS: https://localhost:7258
+* HTTP: http://localhost:5177
+
 ## Configuration
 
 ### Exchange Rates
